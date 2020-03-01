@@ -6,6 +6,9 @@ This is a simple website project for GIT and GITHUB together
 Adding intro text here
 ## Purpose
 
+Added column for Purpose
 ## Deployment
+
+Added column for deployment
 
 ## How to Contribute
