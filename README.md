@@ -11,5 +11,6 @@ Sample website with plenty of files for demos
 ###Copyright
 
 Training
+hello
 
 Please fork this repo
