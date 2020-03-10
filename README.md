@@ -12,5 +12,5 @@ Sample website with plenty of files for demos
 
 Training
 hello
-
+hi
 Please fork this repo
